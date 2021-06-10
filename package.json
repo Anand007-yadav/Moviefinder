@@ -1,10 +1,8 @@
 {
   "name": "project",
-<<<<<<< HEAD
+
   "homepage": "http://Anand007-yadav.github.io/Moviefinder",
-=======
-  "homepage": "https://Anand007-yadav.github.io/MovieFinder",
->>>>>>> 4d39ae31715210f911fcbb2b8ba7da1f4bf481d2
+
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -15,10 +13,7 @@
     "axios": "^0.21.1",
     "bootstrap": "^5.0.1",
     "font-awesome": "^4.7.0",
-<<<<<<< HEAD
     "gh-pages": "^3.2.0",
-=======
->>>>>>> 4d39ae31715210f911fcbb2b8ba7da1f4bf481d2
     "react": "^17.0.2",
     "react-bootstrap": "^1.6.1",
     "react-dom": "^17.0.2",
